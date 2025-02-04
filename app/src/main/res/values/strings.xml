@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cosmic Adventure Deck</string>
+    //Welcome_Screen
+    <string name="welcome_text_1">Welcome,</string>
+    <string name="welcome_text_2">oh mighty Dungeon Master</string>
+    <string name="welcome_text_3">to your magical, mystical and majestic…</string>
+    <string name="main_name">Cosmic Adventure Deck</string>
+    <string name="button_1">Tempt fate…</string>
+    <string name="image_not_found">Image not found!</string>
+    <string name="getting_the_card_ready">Getting your card ready…</string>
+    <string name="card_default_name">The Decadent Monk</string>
+    <string name="card_default_image">the_decadent_monk</string>
+    <string name="card_default_encounter_text">The party encounters the Decadent Monk in a small tavern, attempting to create a “virtuous feast” to prove to his former order that he has overcome his gluttonous tendencies. However, his culinary skills are abysmal, and he begs the party for help.\n" +
+            "\n" +
+            "Encounter Details:\n" +
+            "\n" +
+            "The Puzzle: \n" +
+            "The party must assist the monk in preparing a meal that represents balance and restraint by:\n" +
+            "1. Gathering ingredients from the local market, avoiding distractions like free samples of exotic snacks or pushy vendors.\n" +
+            "2. Solving humorous food-related puzzles, such as deciphering a recipe written in an ancient dialect or figuring out how to repair a broken oven.\n" +
+            "3. Managing the monk’s tendency to sneak bites of the dishes, requiring the party to stay vigilant.\n" +
+            "\n" +
+            "Outcome: \n" +
+            "The feast either impresses a visiting member of the monk’s order or hilariously backfires, depending on the party’s success.\n" +
+            "\n" +
+            "Reward: \n" +
+            "The monk shares his gratitude with a satirical “blessing of balance,” offering the party a minor buff to charisma or luck.</string>
+</resources>
